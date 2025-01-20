@@ -1,0 +1,10 @@
+# Environment 
+.env
+.idea/
+.venv/
+
+# Poetry
+poetry.lock
+
+# llm
+llm/__pycache__/

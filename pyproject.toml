@@ -16,6 +16,9 @@ langchain-community = "^0.3.14"
 langchain-openai = "^0.3.1"
 wikipedia = "^1.4.0"
 numexpr = "^2.10.2"
+pandas = "^2.2.3"
+yfinance = "^0.2.52"
+sqlalchemy = "^2.0.37"
 
 
 [build-system]

@@ -6,5 +6,6 @@
 # Poetry
 poetry.lock
 
-# llm
+# cache
 llm/__pycache__/
+pet_name_generator/__pycache__/
